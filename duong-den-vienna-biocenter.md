@@ -11,7 +11,7 @@ Chào mừng bạn đã đặt chân đến Áo! Bạn đang ở thành phố Ki
 
 Vậy là ước mơ bấy lâu của mình đã thành hiện thực, mình còn chưa tin được mình đang ở châu Âu! Cuối cùng giấc mơ chạm đến môi trường học thuật với các nghiên cứu đột phá đã bắt đầu trở thành hiện thực. Mình thật sự hạnh phúc vô cùng!Ngồi trên xe về ký túc xá, mình như đứa trẻ lạc vào thiên đường cổ tích, Wien đẹp quá, đẹp choáng ngợp bởi sự cổ kính, trật tự và bình yên. Mình trầm trồ suốt với thầy khi từ sân bay về nhà. Đến Wien vào một ngày đông, khi mà nền nhiệt ở đây vào độ lạnh nhất năm, thầy bảo mình rất may mắn khi đến vào đúng ngày trời đẹp. Đúng rồi, hôm nay, Wien đón mình trời trong xanh và đẹp mê ly, một sức hút ma mị làm trỗi dậy niềm đam mê nghệ thuật giấu giếm nơi mình. Tự dưng chợt nhận ra, lâu lắm rồi mình chưa viết văn, lâu lắm rồi mình quên cách làm thơ, hay tự ngồi thẩn thờ đâu đó để suy ngẫm về nhân sinh trong cuộc đời.
 
-![](https://1.bp.blogspot.com/-bMvtUvVcFWw/YAJ6rleY7zI/AAAAAAAAENA/g2vu0-poQNgrMojEx4vJ2s5ZGsejet1RgCLcBGAsYHQ/w640-h398/VBC%2Bcampus.jpg)
+![Campus Vienna BioCenter m&#x1ED9;t ng&#xE0;y &#x111;&#xF4;ng gi&#x1EEF;a th&#xE1;ng 1/2021](.gitbook/assets/vbc-campus.jpg)
 
 _Đến Wien, miền đất hứa của ước mơ, duyên phận của nhân sinh!_
 
