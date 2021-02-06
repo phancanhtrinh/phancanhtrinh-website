@@ -1,32 +1,18 @@
-<p align="center"><a href="https://wowchemy.com" target="_blank" rel="noopener"><img src="https://wowchemy.com/img/logo_200px.png" alt="Wowchemy Website Builder"></a></p>
+---
+description: >-
+  Nơi ghi lại những hiểu biết, khám phá của tác giả trong quá trình theo đuổi
+  con đường học thuật tại thành phố Vienna xinh đẹp.
+---
 
-# Academic Template for [Hugo](https://github.com/gohugoio/hugo)
+# Giới thiệu
 
-The Hugo **Academic Resumé Template** empowers you to create your job-winning online resumé and showcase your academic publications.
+Chào các bạn,
 
-[Check out the latest demo](https://academic-demo.netlify.app) of what you'll get in less than 10 minutes, or [view the showcase](https://wowchemy.com/user-stories/).
+Mình là **Phan Cảnh Trình**, hiện tại mình đang là nghiên cứu sinh tại [Max Perutz Lab Vienna](https://www.maxperutzlabs.ac.at/about) thuộc [Medical University of Vienna](https://www.meduniwien.ac.at/web/en/about-us/history/). Nếu các bạn muốn tìm hiểu thêm thông tin về mình, mời các bạn ghé thăm Porfolio của mình tại [phancanhtrinh.me](http://phancanhtrinh.me).
 
-[**Wowchemy**](https://wowchemy.com) makes it easy to create a beautiful website for free. Edit your site in Markdown, Jupyter, or RStudio (via Blogdown), generate it with Hugo, and deploy with GitHub or Netlify. Customize anything on your site with widgets, themes, and language packs.
+Trước đây mình thường thực hiện các bài viết trực tiếp tại Blog [phancanhtrinh.com](htpp://phancanhtrinh.com). Kể từ nay, mình sẽ bắt đầu thực hiện các bài hướng dẫn kỹ năng nghiên cứu cho sinh viên mới bắt đầu, cũng như ghi lại trải nghiệm, khám phá của bản thân trong quá trình học tiến sĩ tại Châu Âu thông qua nền tảng gitbook.
 
-- 👉 [**Get Started**](https://wowchemy.com/docs/install/)
-- 📚 [View the **documentation**](https://wowchemy.com/docs/)
-- 💬 [Chat with the **Wowchemy community**](https://discord.gg/z8wNYzb) or [**Hugo community**](https://discourse.gohugo.io)
-- 🐦 Twitter: [@wowchemy](https://twitter.com/wowchemy) [@GeorgeCushen](https://twitter.com/GeorgeCushen) [#MadeWithWowchemy](https://twitter.com/search?q=(%23MadeWithWowchemy%20OR%20%23MadeWithAcademic)&src=typed_query)
-- 💡 [Request a **feature** or report a **bug** for _Wowchemy_](https://github.com/wowchemy/wowchemy-hugo-modules/issues)
-- ⬆️ **Updating Wowchemy?** View the [Update Guide](https://wowchemy.com/docs/update/) and [Release Notes](https://wowchemy.com/updates/)
+Hi vọng những bài viết của mình sẽ hữu ích đối với các bạn sinh viên, các đồng nghiệp trẻ vừa bước vào nghiên cứu như mình.
 
-## Crowd-funded open-source software
+Cảm ơn các bạn, mời các bạn cùng khám phá hành trình thú vị của mình nhé!
 
-To help us develop this template and software sustainably under the MIT license, we ask all individuals and businesses that use it to help support its ongoing maintenance and development via sponsorship.
-
-### [❤️ Click here to unlock rewards with sponsorship](https://wowchemy.com/plans/)
-
-## Ecosystem
-
-* **[Wowchemy Admin](https://github.com/wowchemy/wowchemy-admin/):** An admin tool to import publications from BibTeX
-
-[![Screenshot](https://raw.githubusercontent.com/wowchemy/wowchemy-hugo-modules/master/academic.png)](https://wowchemy.com)
-
-<!--
-[![Analytics](https://ga-beacon.appspot.com/UA-78646709-2/academic-kickstart/readme?pixel)](https://github.com/igrigorik/ga-beacon)
--->
