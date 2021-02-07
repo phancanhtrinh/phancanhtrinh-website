@@ -10,7 +10,19 @@ Sau đó, mô hình journal club đã được diễn ra một cách chính th�
 
 Một journal club là một nhóm những người thường xuyên tập trung lại để đánh giá các ấn bản khoa học mới xuất bản trong y khoa, triết học, khoa học khác... Journal club có thể được tổ chức xoay quanh một chủ để khoa học cơ bản hoặc ứng dụng, ví dụ, ứng dụng của evidence-based medicine trong thực hành y khoa. Thông thường, mỗi thành viên tham gia có thể nêu lên ý kiến của họ liên quan đến các câu hỏi như tính hợp lý của thiết kế nghiên cứu, cách xử lý thống kê, sự phù hợp của các nhóm chứng được sử dụng... Ngoài ra, buổi thảo luận có thể là tổng hợp kết quả từ nhiều công bố, thậm chí các kết quả mâu thuẩn và họ sẽ cùng thảo luận về các kết quả này như: đúng/sai, khác biệt so với các kiến thức hiện thời và quan điểm thực hành lâm sàng. 
 
-Ở một vài nơi, như tại \#[MedUniWien](https://www.meduniwien.ac.at/web/), journal club là một môn học trong chương trình của sinh viên sau đại học. Môn học này nhằm giúp sinh viên làm quen dần với cách đọc bài báo và tư duy phản biện trong lĩnh vực nghiên cứu của họ. Ví dụ như chương trình [_**Tissue Home**_ ](https://phancanhtrinh.gitbook.io/blog/dong-bo-co-so-ha-tang-va-to-chuc-khoa-hoc#tissue-home)mà mình theo học, Journal club là học phần bắt buộc diễn ra mỗi 2 tuần, kéo dài suốt cho đến khi nghiên cứu sinh tốt nghiệp. 
+Ở một vài nơi, như tại \#[MedUniWien](https://www.meduniwien.ac.at/web/), journal club là một môn học trong chương trình của sinh viên sau đại học. Môn học này nhằm giúp sinh viên làm quen dần với cách đọc bài báo và tư duy phản biện trong lĩnh vực nghiên cứu của họ. Ví dụ như chương trình [_**Tissue Home**_ ](https://phancanhtrinh.gitbook.io/blog/dong-bo-co-so-ha-tang-va-to-chuc-khoa-hoc#tissue-home)mà mình theo học, Journal club là học phần bắt buộc diễn ra mỗi 2 tuần, kéo dài suốt cho đến khi nghiên cứu sinh tốt nghiệp. Tissue Home 
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
