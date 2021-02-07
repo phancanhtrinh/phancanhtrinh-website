@@ -16,7 +16,9 @@ Một journal club là một nhóm những người thường xuyên tập trung
 
 Điểm đáng chú ý là các bạn trong nhóm đều cực kỳ tích cực, họ có thể nhanh chóng đưa ra ý kiến cũng như đánh giá vấn đề logic. Họ thường có những câu hỏi rất hay và khả năng diễn đạt vấn đề cực kỳ lưu loát. Mình nhận thấy mô hình khá giống với phần phỏng vấn vào trường của mình, nhưng thật sự mình choáng ngợp với khả năng của đồng đội. Lúc trước đọc 1 bài mình cũng mất tầm 2-3 tuần tập trung, vậy mà hiện tại bạn bè có thể ngày ngày lên phòng thí nghiệm, và vẫn hoàn thành đầy đủ sau 2 tuần. Điều mình ngưỡng mộ nhất khi gặp các bạn ở đây là khả năng tập trung cực kỳ khủng. Họ bắt đầu từ 8-9 giờ sáng, miệt mài đến 12 giờ 30, ăn trưa 1 chút rồi tiếp tục đến 6 giờ. Trong thời gian làm mọi người thường chỉ làm, ít khi dùng điện thoại, facebook... Có lẽ đó là điều mà họ thành công!
 
-Đến đây thôi, giờ mình bắt đầu chuẩn bị cho Journal Club tuần tới!
+Hiện thời, các mô hình này ở Việt Nam chưa được phổ biến, nhưng đây là cơ hội quý cho sinh viên có thể thích nghi nhanh chóng vào chuyên ngành hẹp, có lẽ điều quan trọng là chuyên gia trong từng lĩnh vực để khởi sướng các mô hình ban đầu. Trước đây mình đã từng một lần tổ chức cho sinh viên tại Khoa Dược, nhưng có lẽ thời gian, chuyên môn sâu là điều quan trọng để duy trì được lâu dài. Hi vọng một tương lai không xa, các hoạt động này sẽ phổ biến tại các môi trường học thuật tại Việt Nam.
+
+Đến đây thôi, giờ mình bắt đầu chuẩn bị cho tuần tới! Cố lên!
 
 {% hint style="success" %}
 #### **Tissue Home** __
