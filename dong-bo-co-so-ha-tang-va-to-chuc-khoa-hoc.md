@@ -10,55 +10,15 @@ Sau đó, mô hình journal club đã được diễn ra một cách chính th�
 
 Một journal club là một nhóm những người thường xuyên tập trung lại để đánh giá các ấn bản khoa học mới xuất bản trong y khoa, triết học, khoa học khác... Journal club có thể được tổ chức xoay quanh một chủ để khoa học cơ bản hoặc ứng dụng, ví dụ, ứng dụng của evidence-based medicine trong thực hành y khoa. Thông thường, mỗi thành viên tham gia có thể nêu lên ý kiến của họ liên quan đến các câu hỏi như tính hợp lý của thiết kế nghiên cứu, cách xử lý thống kê, sự phù hợp của các nhóm chứng được sử dụng... Ngoài ra, buổi thảo luận có thể là tổng hợp kết quả từ nhiều công bố, thậm chí các kết quả mâu thuẩn và họ sẽ cùng thảo luận về các kết quả này như: đúng/sai, khác biệt so với các kiến thức hiện thời và quan điểm thực hành lâm sàng. 
 
-Ở một vài nơi, như tại \#[MedUniWien](https://www.meduniwien.ac.at/web/), journal club là một môn học trong chương trình của sinh viên sau đại học. Môn học này nhằm giúp sinh viên làm quen dần với cách đọc bài báo và tư duy phản biện trong lĩnh vực nghiên cứu của họ. Ví dụ như chương trình _**Tissue Home**_ mà mình theo học, Journal club là học phần bắt buộc diễn ra mỗi 2 tuần, kéo dài suốt cho đến khi nghiên cứu sinh tốt nghiệp. 
-
- __
+Ở một vài nơi, như tại \#[MedUniWien](https://www.meduniwien.ac.at/web/), journal club là một môn học trong chương trình của sinh viên sau đại học. Môn học này nhằm giúp sinh viên làm quen dần với cách đọc bài báo và tư duy phản biện trong lĩnh vực nghiên cứu của họ. Ví dụ như chương trình [_**Tissue Home**_ ](https://phancanhtrinh.gitbook.io/blog/dong-bo-co-so-ha-tang-va-to-chuc-khoa-hoc/#tissue-home)mà mình theo học, Journal club là học phần bắt buộc diễn ra mỗi 2 tuần, kéo dài suốt cho đến khi nghiên cứu sinh tốt nghiệp. 
 
 
 
-{% api-method method="post" host="" path="" %}
-{% api-method-summary %}
+{% hint style="success" %}
+#### **Tissue Home** __
 
-{% endapi-method-summary %}
-
-{% api-method-description %}
-
-{% endapi-method-description %}
-
-{% api-method-spec %}
-{% api-method-request %}
-{% api-method-path-parameters %}
-{% api-method-parameter name="" type="string" required=false %}
-
-{% endapi-method-parameter %}
-{% endapi-method-path-parameters %}
-{% endapi-method-request %}
-
-{% api-method-response %}
-{% api-method-response-example httpCode=200 %}
-{% api-method-response-example-description %}
-
-{% endapi-method-response-example-description %}
-
-```
-<details>
-  <summary>Click to expand!</summary>
-  
-  ## Heading
-  1. A numbered
-  2. list
-     * With some
-     * Sub bullets
-</details>
-```
-{% endapi-method-response-example %}
-{% endapi-method-response %}
-{% endapi-method-spec %}
-{% endapi-method %}
-
-> _**Tissue Home** là một tên viết tắt mà mình cực kỳ thích thú, tương tự như các dự án nghiên cứu trong chương trình khung châu âu, họ thường được yêu cầu đặt tên viết tắt gợi nhớ thì **Tissue Home \(Ngôi nhà mô\)** cũng vậy. Đầy đủ là **Molecular & Cellular Control of Tissue Homeostasis in Health & Disease - TissueHome**, một chương trình với mục tiêu đào tạo 10 tiến sĩ về sinh học phân tử tế bào liên quan đến cân bằng nội môi trong các bệnh do một nhóm khoảng 10 group leaders tại Wien khởi sướng. Dự án được tài trợ bởi The Austrian Science Fund \(FWF\), tổ chức của chính phủ Áo với các chương trình tài trợ nghiên cứu hằng năm - đây là một trong các quốc gia cực kỳ đầu tư cho khoa học công nghệ tại châu Âu, 3,19% GDP năm 2019 dành cho nghiên cứu phát triển đứng thứ 2 châu Âu, sau Thụy Điển._
-
-![](.gitbook/assets/image%20%281%29.png)
+là một tên viết tắt mà mình cực kỳ thích thú, tương tự như các dự án nghiên cứu trong chương trình khung châu âu, họ thường được yêu cầu đặt tên viết tắt gợi nhớ thì Tissue Home \(Ngôi nhà mô\) cũng vậy. Đầy đủ là **Molecular & Cellular Control of Tissue Homeostasis in Health & Disease - TissueHome**, một chương trình với mục tiêu đào tạo 10 tiến sĩ về sinh học phân tử tế bào liên quan đến cân bằng nội môi trong các bệnh do một nhóm khoảng 10 group leaders tại Wien khởi sướng. Dự án được tài trợ bởi The Austrian Science Fund \(FWF\), tổ chức của chính phủ Áo với các chương trình tài trợ nghiên cứu hằng năm - đây là một trong các quốc gia cực kỳ đầu tư cho khoa học công nghệ tại châu Âu, 3,19% GDP năm 2019 dành cho nghiên cứu phát triển đứng thứ 2 châu Âu, sau Thụy Điển.![](.gitbook/assets/image%20%283%29.png)
+{% endhint %}
 
 
 
