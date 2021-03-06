@@ -4,3 +4,28 @@
 * [Đường đến Vienna BioCenter](duong-den-vienna-biocenter.md)
 * [Journal Club - bữa ăn không thể thiếu của sinh viên PhD](dong-bo-co-so-ha-tang-va-to-chuc-khoa-hoc.md)
 
+## Loạt bài Kỹ năng nghiên cứu khoa học
+
+* [LỜI NÓI ĐẦU](loat-bai-ky-nang-nghien-cuu-khoa-hoc/untitled/README.md)
+  * [Danh mục khái niệm thường gặp cho người bắt đầu nghiên cứu](loat-bai-ky-nang-nghien-cuu-khoa-hoc/untitled/danh-muc-khai-niem-thuong-gap-cho-nguoi-bat-dau-nghien-cuu.md)
+  * [Bài 1. Khái niệm về một số loại ấn phẩm khoa học](loat-bai-ky-nang-nghien-cuu-khoa-hoc/untitled/untitled-1.md)
+  * [Nhà xuất bản và xu hướng xuất bản ấn phẩm khoa học](loat-bai-ky-nang-nghien-cuu-khoa-hoc/untitled/nha-xuat-ban-va-xu-huong-xuat-ban-an-pham-khoa-hoc.md)
+  * [Xu hướng nghiên cứu và hợp tác liên ngành](loat-bai-ky-nang-nghien-cuu-khoa-hoc/untitled/xu-huong-nghien-cuu-va-hop-tac-lien-nganh.md)
+  * [Tiêu chí đánh giá mức độ tin cậy của ấn phẩm](loat-bai-ky-nang-nghien-cuu-khoa-hoc/untitled/tieu-chi-danh-gia-muc-do-tin-cay-cua-an-pham.md)
+  * [Các công cụ tìm kiếm tài liệu](loat-bai-ky-nang-nghien-cuu-khoa-hoc/untitled/cac-cong-cu-tim-kiem-tai-lieu.md)
+  * [Tài liệu chưa qua bình duyệt nhưng có](loat-bai-ky-nang-nghien-cuu-khoa-hoc/untitled/tai-lieu-chua-qua-binh-duyet-nhung-co.md)
+  * [JoVE: Tạp chí multimedia có bình duyệt](loat-bai-ky-nang-nghien-cuu-khoa-hoc/untitled/jove-tap-chi-multimedia-co-binh-duyet.md)
+  * [Tích lũy từ khóa tìm kiếm khi bắt đầu chủ đề mới](loat-bai-ky-nang-nghien-cuu-khoa-hoc/untitled/tich-luy-tu-khoa-tim-kiem-khi-bat-dau-chu-de-moi.md)
+  * [Research Gate: mạng xã hội của nhà khoa học](loat-bai-ky-nang-nghien-cuu-khoa-hoc/untitled/research-gate-mang-xa-hoi-cua-nha-khoa-hoc.md)
+  * [Sci-hub: xã hội hóa thông tin khoa học](loat-bai-ky-nang-nghien-cuu-khoa-hoc/untitled/sci-hub-xa-hoi-hoa-thong-tin-khoa-hoc.md)
+  * [Tìm và tải tài liệu học tập tiếng Việt](loat-bai-ky-nang-nghien-cuu-khoa-hoc/untitled/tim-va-tai-tai-lieu-hoc-tap-tieng-viet.md)
+  * [Giới thiệu các công cụ trích dẫn](loat-bai-ky-nang-nghien-cuu-khoa-hoc/untitled/gioi-thieu-cac-cong-cu-trich-dan.md)
+  * [E-Portfolio: bắt đầu ngay bây giờ!](loat-bai-ky-nang-nghien-cuu-khoa-hoc/untitled/e-portfolio-bat-dau-ngay-bay-gio.md)
+  * [Hội nhóm chuyên môn qua mạng xã hội](loat-bai-ky-nang-nghien-cuu-khoa-hoc/untitled/hoi-nhom-chuyen-mon-qua-mang-xa-hoi.md)
+  * [Slack: công cụ làm dự án theo nhóm](loat-bai-ky-nang-nghien-cuu-khoa-hoc/untitled/slack-cong-cu-lam-du-an-theo-nhom.md)
+  * [Trau dồi kỹ năng tin học văn phòng và internet](loat-bai-ky-nang-nghien-cuu-khoa-hoc/untitled/trau-doi-ky-nang-tin-hoc-van-phong-va-internet.md)
+  * [Trình bày khóa luận với Microsoft Word](loat-bai-ky-nang-nghien-cuu-khoa-hoc/untitled/trinh-bay-khoa-luan-voi-microsoft-word.md)
+  * [Học trực tuyến](loat-bai-ky-nang-nghien-cuu-khoa-hoc/untitled/hoc-truc-tuyen.md)
+  * [Kỹ năng sử dụng email trong trao đổi công việc và học tập](loat-bai-ky-nang-nghien-cuu-khoa-hoc/untitled/ky-nang-su-dung-email-trong-trao-doi-cong-viec-va-hoc-tap.md)
+  * [Benchling: sổ tay thí nghiệm điện tử cho ngành Life Science](loat-bai-ky-nang-nghien-cuu-khoa-hoc/untitled/benchling-so-tay-thi-nghiem-dien-tu-cho-nganh-life-science.md)
+
