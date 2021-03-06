@@ -13,6 +13,7 @@
 * [Danh mục khái niệm thường gặp cho người bắt đầu nghiên cứu](loat-bai-ky-nang-nghien-cuu-khoa-hoc/danh-muc-khai-niem-thuong-gap-cho-nguoi-bat-dau-nghien-cuu.md)
 * [Bài 1. Khái niệm về một số loại ấn phẩm khoa học](loat-bai-ky-nang-nghien-cuu-khoa-hoc/untitled-1.md)
 * [Hướng dẫn chi tiết trình bày khóa luận bằng Word](loat-bai-ky-nang-nghien-cuu-khoa-hoc/untitled-2.md)
+* [\[Slide\] 5 năm ở Trường Dược - Được dạy và tự học những gì?](loat-bai-ky-nang-nghien-cuu-khoa-hoc/untitled-4.md)
 * [Draft](loat-bai-ky-nang-nghien-cuu-khoa-hoc/untitled/README.md)
   * [Nhà xuất bản và xu hướng xuất bản ấn phẩm khoa học](loat-bai-ky-nang-nghien-cuu-khoa-hoc/untitled/nha-xuat-ban-va-xu-huong-xuat-ban-an-pham-khoa-hoc.md)
   * [Xu hướng nghiên cứu và hợp tác liên ngành](loat-bai-ky-nang-nghien-cuu-khoa-hoc/untitled/xu-huong-nghien-cuu-va-hop-tac-lien-nganh.md)
