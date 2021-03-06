@@ -7,6 +7,10 @@
 * [Chuyện năm nào cũng kể - Mùa khóa luận thứ 3](untitled-1.md)
 * [Sinh ra để nổ lực](untitled-2.md)
 * [Tiếng chim ca trong vườn chiều](untitled-3.md)
+* [Kẻ đi lạc](untitled-4.md)
+* [Hồi ký ở làng - Kỳ 1](untitled-5.md)
+* [Nanotube - một cơ chế đề kháng đáng chú ý!](untitled-6.md)
+* [Mùa khoá luận thứ 2](untitled-7.md)
 
 ## Loạt bài Kỹ năng nghiên cứu khoa học
 
@@ -14,6 +18,9 @@
 * [Bài 1. Khái niệm về một số loại ấn phẩm khoa học](loat-bai-ky-nang-nghien-cuu-khoa-hoc/untitled-1.md)
 * [Hướng dẫn chi tiết trình bày khóa luận bằng Word](loat-bai-ky-nang-nghien-cuu-khoa-hoc/untitled-2.md)
 * [\[Slide\] 5 năm ở Trường Dược - Được dạy và tự học những gì?](loat-bai-ky-nang-nghien-cuu-khoa-hoc/untitled-4.md)
+* [Học bổng nghiên cứu mùa hè 2018 - Hướng dẫn tìm kiếm tài liệu](loat-bai-ky-nang-nghien-cuu-khoa-hoc/untitled-3.md)
+* [Heading trong Word bị mảng đen biết phải làm sao?](loat-bai-ky-nang-nghien-cuu-khoa-hoc/untitled-8.md)
+* [Nhập liệu và trích dẫn đúng quy định trường Dược - 2018](loat-bai-ky-nang-nghien-cuu-khoa-hoc/untitled-5.md)
 * [Draft](loat-bai-ky-nang-nghien-cuu-khoa-hoc/untitled/README.md)
   * [Nhà xuất bản và xu hướng xuất bản ấn phẩm khoa học](loat-bai-ky-nang-nghien-cuu-khoa-hoc/untitled/nha-xuat-ban-va-xu-huong-xuat-ban-an-pham-khoa-hoc.md)
   * [Xu hướng nghiên cứu và hợp tác liên ngành](loat-bai-ky-nang-nghien-cuu-khoa-hoc/untitled/xu-huong-nghien-cuu-va-hop-tac-lien-nganh.md)
