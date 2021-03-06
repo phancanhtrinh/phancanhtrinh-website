@@ -1,4 +1,4 @@
-# LỜI NÓI ĐẦU
+# Draft
 
 Cách đây gần 10 năm, khi mình còn là một sinh viên năm nhất, ngày đó các hoạt động nghiên cứu và đào tạo kỹ năng nghiên cứu cho sinh viên còn rất hạn chế. Mình bắt đầu manh nha biết đến những bài báo khoa học mà các anh chị thường chia sẻ và nhờ tải giúp trên diễn đàn sinhvienduoc.com. Đó là những ngày đầu tiên mình hình thành các khái niệm sơ khởi về nghiên cứu. Mình đã tự mò mẫm trong nhiều năm liền, tự học theo một hình thức không hề có mục tiêu cụ thể, chỉ là sự tò mò khi nhìn thấy bất cứ điều gì mới mẻ trên diễn đàn, cho đến khi mình ý thức được nghiên cứu là gì hồi năm 2, năm 3.
 

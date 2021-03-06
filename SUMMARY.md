@@ -1,14 +1,19 @@
 # Table of contents
 
 * [Giới thiệu](README.md)
-* [Đường đến Vienna BioCenter](duong-den-vienna-biocenter.md)
 * [Journal Club - bữa ăn không thể thiếu của sinh viên PhD](dong-bo-co-so-ha-tang-va-to-chuc-khoa-hoc.md)
+* [Đường đến Vienna BioCenter](duong-den-vienna-biocenter.md)
+* [Sài Gòn ngày 09 tháng 10 năm 2019 - Viết cho những ngày xuống tinh thần](untitled.md)
+* [Chuyện năm nào cũng kể - Mùa khóa luận thứ 3](untitled-1.md)
+* [Sinh ra để nổ lực](untitled-2.md)
+* [Tiếng chim ca trong vườn chiều](untitled-3.md)
 
 ## Loạt bài Kỹ năng nghiên cứu khoa học
 
-* [LỜI NÓI ĐẦU](loat-bai-ky-nang-nghien-cuu-khoa-hoc/untitled/README.md)
-  * [Danh mục khái niệm thường gặp cho người bắt đầu nghiên cứu](loat-bai-ky-nang-nghien-cuu-khoa-hoc/untitled/danh-muc-khai-niem-thuong-gap-cho-nguoi-bat-dau-nghien-cuu.md)
-  * [Bài 1. Khái niệm về một số loại ấn phẩm khoa học](loat-bai-ky-nang-nghien-cuu-khoa-hoc/untitled/untitled-1.md)
+* [Danh mục khái niệm thường gặp cho người bắt đầu nghiên cứu](loat-bai-ky-nang-nghien-cuu-khoa-hoc/danh-muc-khai-niem-thuong-gap-cho-nguoi-bat-dau-nghien-cuu.md)
+* [Bài 1. Khái niệm về một số loại ấn phẩm khoa học](loat-bai-ky-nang-nghien-cuu-khoa-hoc/untitled-1.md)
+* [Hướng dẫn chi tiết trình bày khóa luận bằng Word](loat-bai-ky-nang-nghien-cuu-khoa-hoc/untitled-2.md)
+* [Draft](loat-bai-ky-nang-nghien-cuu-khoa-hoc/untitled/README.md)
   * [Nhà xuất bản và xu hướng xuất bản ấn phẩm khoa học](loat-bai-ky-nang-nghien-cuu-khoa-hoc/untitled/nha-xuat-ban-va-xu-huong-xuat-ban-an-pham-khoa-hoc.md)
   * [Xu hướng nghiên cứu và hợp tác liên ngành](loat-bai-ky-nang-nghien-cuu-khoa-hoc/untitled/xu-huong-nghien-cuu-va-hop-tac-lien-nganh.md)
   * [Tiêu chí đánh giá mức độ tin cậy của ấn phẩm](loat-bai-ky-nang-nghien-cuu-khoa-hoc/untitled/tieu-chi-danh-gia-muc-do-tin-cay-cua-an-pham.md)
@@ -26,6 +31,6 @@
   * [Trau dồi kỹ năng tin học văn phòng và internet](loat-bai-ky-nang-nghien-cuu-khoa-hoc/untitled/trau-doi-ky-nang-tin-hoc-van-phong-va-internet.md)
   * [Trình bày khóa luận với Microsoft Word](loat-bai-ky-nang-nghien-cuu-khoa-hoc/untitled/trinh-bay-khoa-luan-voi-microsoft-word.md)
   * [Học trực tuyến](loat-bai-ky-nang-nghien-cuu-khoa-hoc/untitled/hoc-truc-tuyen.md)
-  * [Kỹ năng sử dụng email trong trao đổi công việc và học tập](loat-bai-ky-nang-nghien-cuu-khoa-hoc/untitled/ky-nang-su-dung-email-trong-trao-doi-cong-viec-va-hoc-tap.md)
   * [Benchling: sổ tay thí nghiệm điện tử cho ngành Life Science](loat-bai-ky-nang-nghien-cuu-khoa-hoc/untitled/benchling-so-tay-thi-nghiem-dien-tu-cho-nganh-life-science.md)
+  * [Kỹ năng sử dụng email trong trao đổi công việc và học tập](loat-bai-ky-nang-nghien-cuu-khoa-hoc/untitled/ky-nang-su-dung-email-trong-trao-doi-cong-viec-va-hoc-tap.md)
 
